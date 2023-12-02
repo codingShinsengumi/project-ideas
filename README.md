@@ -10,4 +10,7 @@ This repository will keep track of a list of project ideas that members are invi
      * There should be a way to view and edit the other reminders
      * Separate the reminders by their status: (ex: future, past, today)
      * The UI should be distraction free.
+  
+     * Status: Available
+     * Taken by: \<undefined\>
        
